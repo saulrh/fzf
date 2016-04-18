@@ -1,5 +1,9 @@
 [![Slack Room][slack-badge]][slack-link]
 
+# Fork
+
+I forked this because the upstream provides default bindings that collide with several operations that I use regularly, mostly ***C-t*** (for swapping characters).
+
 # Fzf
 
 **fzf** provides efficient keybindings for the [fzf](https://github.com/junegunn/fzf) utility. Heavily adapted from @hauleth's PR.
